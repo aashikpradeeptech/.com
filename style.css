@@ -1,5 +1,10 @@
 .loader_bg{
     position: fixed;
+     top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
     z-index: 999999;
     background: #fff;
     width: 100%;
