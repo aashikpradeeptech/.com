@@ -1,4 +1,4 @@
-var loader = document.querySelector(".loader")
+var loader = document.querySelector(".loader_bg")
 
 window.addEventListener("load", vanish);
 
