@@ -1,8 +1,5 @@
-.loader_bg{
-   
-    z-index: 999999;
-    background: #fff;
-     margin: 0;
+*{
+  margin: 0;
   padding: 0;
     
 }
